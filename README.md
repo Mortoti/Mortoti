@@ -21,7 +21,6 @@
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DBMS-blue?logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?logo=visualstudiocode)
 

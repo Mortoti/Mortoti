@@ -33,10 +33,10 @@
 
 ---
 
+
 ## 📫 Contact Me
 
-Connect with me through any of the following:
+- 🔗 **LinkedIn**: [Mortoti](https://www.linkedin.com/in/mortoti)  
+- 📧 **Email**: [mortoti.dev@gmail.com](mailto:mortoti.dev@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mortoti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mortoti)
-[![Email](https://img.shields.io/badge/Email-mortoti.dev@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mortoti.dev@gmail.com)
 

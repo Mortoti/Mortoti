@@ -37,7 +37,8 @@
 ## 📫 Contact Me
 
 - 🔗 **LinkedIn**: [Mortoti](https://www.linkedin.com/in/mortoti)  
-- 📧 **Email**: [mortoti.dev@gmail.com](mailto:mortoti.dev@gmail.com)
+- 📧 **Email**: [mortoti.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mortoti.dev@gmail.com)
+
 
 
 

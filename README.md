@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mortoti&theme=dark&hide_border=true)
+![Mortoti’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortoti&show_icons=true&theme=dark)
 
 
 ![Mortoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mortoti&show_icons=true&theme=dark&hide_border=true)

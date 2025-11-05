@@ -69,21 +69,14 @@ me.say_hi()
 
 ---
 
-## 🎯 2025 Goals
 
-- [ ] Complete 365 LeetCode problems
-- [ ] Build and deploy 3 full-stack backend projects
-- [ ] Contribute to open-source projects
-- [ ] Master Django REST Framework
-- [ ] Learn Docker and containerization
 
 ---
 
 ## 🌱 Currently Exploring
 
-- **Data Structures & Algorithms**: Deepening my understanding of core CS concepts
 - **API Development**: Building robust and scalable RESTful APIs
-- **Database Design**: Learning PostgreSQL optimization and schema design
+- **Database Design**: Learning MySQL optimization and schema design
 - **System Design**: Understanding how to build scalable systems
 
 ---
@@ -100,7 +93,6 @@ I'm always excited to collaborate on projects or discuss tech! Feel free to reac
 
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mortoti&color=blueviolet&style=for-the-badge)
 

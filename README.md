@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mortoti)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortoti.dev@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mortoti)
+
 
 </div>
 
@@ -20,8 +20,7 @@ class Developer:
     def __init__(self):
         self.name = "Mortoti"
         self.role = "Aspiring Backend Developer"
-        self.daily_habit = "Solving 1 LeetCode problem"
-        self.current_focus = ["Django", "DSA", "System Design"]
+        self.current_focus = ["Django","System Design"]
     
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together!")
@@ -34,7 +33,6 @@ me.say_hi()
 
 ## 🔥 What I'm Up To
 
-- 🧩 **Daily Challenge**: Solving 1 LeetCode problem every day to sharpen my problem-solving skills
 - 🏗️ **Building**: Real-world backend applications using Python and Django
 - 📚 **Learning**: Backend architecture, RESTful APIs, and database optimization
 - 📝 **Documenting**: My learning journey and project experiences on GitHub

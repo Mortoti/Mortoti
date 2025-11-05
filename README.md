@@ -12,7 +12,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mortoti&theme=dark&hide_border=true&r=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true&v=1)
+
 
 
 ![Mortoti’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortoti&show_icons=true&theme=dark)

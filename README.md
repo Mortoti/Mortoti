@@ -61,7 +61,7 @@ me.say_hi()
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mortoti&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mortoti&theme=tokyonight&hide_border=true&border_radius=10)
 
 ![Mortoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mortoti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
 

@@ -99,6 +99,6 @@ I'm always excited to collaborate on projects or discuss tech! Feel free to reac
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mortoti&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Mortoti](https://github.com/Mortoti) | Made with ❤️ and lots of ☕
+⭐️ From [Mortoti](https://github.com/Mortoti) 
 
 </div>

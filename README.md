@@ -57,6 +57,7 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-0C8AFF?style=for-the-badge&logo=paystack&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 
 

@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mortoti!
+#  Hey there, I'm Mortoti!
 
 <div align="center">
   

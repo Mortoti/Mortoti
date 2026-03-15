@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝    ╚═╝   ╚═╝
 ```
 
-*Backend Developer in the Making · Problem Solver · Perpetual Learner*
+*Backend Developer · Problem Solver · Perpetual Learner*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mortoti)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:mortoti.dev@gmail.com)
@@ -24,7 +24,7 @@
 
 ```python
 class Mortoti:
-    role    = "Aspiring Backend Developer"
+    role    = "Backend Developer"
     focus   = ["Django", "REST APIs", "System Design", "DSA"]
     mantra  = "Ship. Learn. Repeat."
 

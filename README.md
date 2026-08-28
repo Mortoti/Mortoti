@@ -160,99 +160,181 @@ class Mortoti:
 
 ### `~/shipped`
 
-**Not side projects. Not tutorials. Production systems with real users.**
-<br/>
-<sub>click any system to open it up</sub>
+**Not side projects. Not tutorials. Production systems with real users and real money moving through them.**
+
+<sub>every card below opens. every link below is live.</sub>
 
 </div>
 
 <br/>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-NOLAP_PREP-1D9E75?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
 <details open>
-<summary><b>🤖 &nbsp;NOLAP PREP</b> &nbsp;&nbsp;<code>AI study platform · 700+ active students</code></summary>
+<summary><b>AI powered study platform for Ghanaian university students</b> &nbsp;<code>700+ active students</code></summary>
 
 <br/>
 
-> AI generated exam questions powered by the OpenAI API, live quiz competitions, SMS study reminders, Paystack payments and class resource sharing. Built for Ghanaian university students who were tired of studying blind.
+Students here revise the same way every year. They hunt for past questions, photocopy whatever they can find, and hope the lecturer repeats himself. NOLAP Prep replaces that guesswork with a system.
+
+The core of it is question generation. Course material goes in, the OpenAI API turns it into fresh exam style questions, and students get an unlimited supply of practice instead of the same three past papers passed around a WhatsApp group.
+
+On top of that sits everything a student actually needs to keep going:
+
+`Live quiz competitions` let students go head to head in real time, which turns solo revision into something they come back for.
+`SMS study reminders` reach students on any phone, no data required, because a study plan nobody remembers is not a study plan.
+`Paystack payments` handle subscriptions and access with local cards and mobile money.
+`Class resource sharing` gives each class one place for slides, notes and materials instead of a scattered chat history.
+
+The platform runs on Django with PostgreSQL behind it, and has grown to more than 700 active students.
+
+<br/>
 
 <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/Paystack-000000?style=flat-square&logo=paystack&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/Arkesel_SMS-000000?style=flat-square&logo=maildotru&logoColor=1D9E75"/>
 
-<a href="https://nolapprep.com"><img src="https://img.shields.io/badge/VISIT_LIVE-1D9E75?style=for-the-badge&logoColor=000000"/></a>
+<a href="https://nolapprep.com"><img src="https://img.shields.io/badge/nolapprep.com-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=1D9E75"/></a>
 
 </details>
 
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-IMPERIAL_CORTE-1D9E75?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
 <details>
-<summary><b>🔧 &nbsp;IMPERIAL CORTE</b> &nbsp;&nbsp;<code>Barbershop POS + loyalty engine</code></summary>
+<summary><b>Point of sale and loyalty engine for a working barbershop</b> &nbsp;<code>queue, payroll, referrals</code></summary>
 
 <br/>
 
-> Queue management, barber commissions, payroll, SMS blasts, birthday automation and ImperialCash, a referral programme where members earn MoMo cash every single time someone they referred walks in and pays.
+A barbershop is a harder business than it looks. Customers arrive without warning, barbers are paid on what they cut, and the whole thing usually runs on a notebook behind the counter. Imperial Corte turns that notebook into software.
+
+`Queue management` tracks who is waiting, who is in a chair and who is next, so the shop stops running on memory and shouting.
+`Barber commissions` are calculated from actual recorded cuts, which removes the end of week argument about who earned what.
+`Payroll` follows from those same numbers, so paying the team is a report rather than an evening of arithmetic.
+`SMS blasts` push promotions and announcements to the entire customer base at once.
+`Birthday automation` sends customers a message on their day without anyone remembering to.
+
+The piece I am proudest of is **ImperialCash**. It is a referral programme where a member earns real mobile money every single time someone they referred walks in and pays. Not points. Not a stamp card. Cash that lands on their phone. It turns every satisfied customer into an incentivised salesperson for the shop, and it means growth compounds instead of depending on foot traffic.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/Arkesel_SMS-000000?style=flat-square&logo=maildotru&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/Mobile_Money-000000?style=flat-square&logo=mtn&logoColor=1D9E75"/>
+
+<a href="https://imperialcorte.com"><img src="https://img.shields.io/badge/imperialcorte.com-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=1D9E75"/></a>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/03-GAAM-1D9E75?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
+<details>
+<summary><b>Official website for a national government body</b> &nbsp;<code>all 16 regions of Ghana</code></summary>
+
+<br/>
+
+The Ghana Association of Assembly Members is the national body representing assembly members across all 16 regions of the country. Assembly members are the layer of government closest to ordinary people, and until this project the association had no official home online.
+
+I built and shipped that home. It went live as an official milestone under the current president's tenure, which means the work is public record rather than a portfolio entry.
+
+Building for a national body changes the job. The audience is not early adopters who will forgive a rough edge, it is members, media and the public arriving from every region on every kind of connection. That put the weight on clear structure, fast pages, and content that holds up when the site is being read by people who have never used the internet for anything official before.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1D9E75"/>
+
+<a href="https://gaamofficial.org"><img src="https://img.shields.io/badge/gaamofficial.org-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=1D9E75"/></a>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/04-SIR_RAY_CONSULT-1D9E75?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
+<details>
+<summary><b>University admissions platform</b> &nbsp;<code>171 programmes indexed</code></summary>
+
+<br/>
+
+Every year thousands of Ghanaian students finish WASSCE and immediately hit the same wall. What is my aggregate. Which universities will take it. Which programmes am I actually qualified for. The answers are scattered across PDFs, notice boards and rumour.
+
+Sir Ray Consult puts all of it in one place.
+
+`WASSCE aggregate calculator` turns raw grades into the number that decides everything, without the student getting it wrong by hand.
+`Cut off points` are indexed for every Ghanaian university, so a student can see where they stand instead of guessing.
+`171 programmes` are catalogued with their requirements, which is the difference between applying blind and applying informed.
+`Course Match` takes a student's results and points them at the programmes they qualify for, which is the feature that turns a reference site into advice.
+`Result checker cards` are sold and delivered instantly over SMS after a Paystack payment, so a student can buy a card at midnight and check results immediately rather than finding a vendor in town.
+
+That last piece matters because it is the part that earns. The tools bring students in, the card delivery pays for the platform.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/Paystack-000000?style=flat-square&logo=paystack&logoColor=1D9E75"/>
+<img src="https://img.shields.io/badge/Arkesel_SMS-000000?style=flat-square&logo=maildotru&logoColor=1D9E75"/>
+
+<a href="https://sirrayconsult.com"><img src="https://img.shields.io/badge/sirrayconsult.com-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=1D9E75"/></a>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/05-ACI_ABREPO-1D9E75?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
+<details>
+<summary><b>Church management system for a full congregation</b> &nbsp;<code>records, attendance, finances</code></summary>
+
+<br/>
+
+Ark Cathedral International, Abrepo, ran the way most churches run. Membership in one book, attendance in another, offerings in a third, and announcements delivered by whoever remembered to make them. Everything worked until someone needed to answer a question across two of those books.
+
+The system I built collapses all of it into one place.
+
+`Member records` hold the congregation in a single searchable database instead of a register.
+`Attendance tracking` shows who is showing up and who has quietly stopped, which is pastoral information, not just a number.
+`Finances` are recorded and reportable, so leadership can answer questions about the church's money with figures rather than estimates.
+`Day born group management` supports the Akan day name groupings the church organises around, a structure no generic church software off the shelf accounts for.
+`Bulk SMS` reaches the entire congregation at once, which matters far more than email in this context.
+
+Building for a church means building for volunteers who did not sign up to learn software. The whole thing had to be obvious on the first try.
+
+<br/>
 
 <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/Arkesel_SMS-000000?style=flat-square&logo=maildotru&logoColor=1D9E75"/>
 
-<a href="https://imperialcorte.com"><img src="https://img.shields.io/badge/VISIT_LIVE-1D9E75?style=for-the-badge&logoColor=000000"/></a>
-
-</details>
-
-<details>
-<summary><b>🏛️ &nbsp;GAAM</b> &nbsp;&nbsp;<code>National government website · 16 regions</code></summary>
-
-<br/>
-
-> The official website for the Ghana Association of Assembly Members, a national body representing assembly members across all 16 regions of Ghana. Launched as an official milestone under the current president's tenure.
-
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1D9E75"/>
-
-<a href="https://gaamofficial.org"><img src="https://img.shields.io/badge/VISIT_LIVE-1D9E75?style=for-the-badge&logoColor=000000"/></a>
-
-</details>
-
-<details>
-<summary><b>🎓 &nbsp;SIR RAY CONSULT</b> &nbsp;&nbsp;<code>University admissions platform · 171 programmes</code></summary>
-
-<br/>
-
-> WASSCE aggregate calculator, cut off points for every Ghanaian university, 171 programmes indexed, a Course Match tool and instant result checker card delivery through SMS and Paystack.
-
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
-<img src="https://img.shields.io/badge/Paystack-000000?style=flat-square&logo=paystack&logoColor=1D9E75"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1D9E75"/>
-
-<a href="https://sirrayconsult.com"><img src="https://img.shields.io/badge/VISIT_LIVE-1D9E75?style=for-the-badge&logoColor=000000"/></a>
-
-</details>
-
-<details>
-<summary><b>⛪ &nbsp;ACI ABREPO</b> &nbsp;&nbsp;<code>Church management system</code></summary>
-
-<br/>
-
-> Member records, attendance tracking, finances, day born group management and bulk SMS to the entire congregation. Everything they used to do on paper, now in one system.
-
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
-<img src="https://img.shields.io/badge/Arkesel_SMS-000000?style=flat-square&logo=maildotru&logoColor=1D9E75"/>
-
-<a href="https://arkcathedral.com"><img src="https://img.shields.io/badge/VISIT_LIVE-1D9E75?style=for-the-badge&logoColor=000000"/></a>
-
-</details>
-
-<details>
-<summary><b>📊 &nbsp;STICKERS FIE</b> &nbsp;&nbsp;<code>Business management PWA</code></summary>
-
-<br/>
-
-> Sales recording, expense tracking by category, investment logging, a net profit dashboard and a rolling 6 month revenue chart. Shipped as a PWA so it installs on mobile like a native app.
-
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
-<img src="https://img.shields.io/badge/PWA-000000?style=flat-square&logo=pwa&logoColor=1D9E75"/>
-
-<a href="https://stickersfie.nolaptech.com"><img src="https://img.shields.io/badge/VISIT_LIVE-1D9E75?style=for-the-badge&logoColor=000000"/></a>
+<a href="https://arkcathedral.com"><img src="https://img.shields.io/badge/arkcathedral.com-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=1D9E75"/></a>
 
 </details>
 

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="328" viewBox="0 0 900 328" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,monospace">
+<defs><linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1D9E75" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#1D9E75" stop-opacity="0.15"/>
+</linearGradient></defs>
+<style>
+  .ui   { font-size: 11.5px; fill: #5f7d70; }
+  .cmd  { font-size: 13px;   fill: #1D9E75; }
+  .num  { font-size: 11.5px; fill: #4a6b5d; }
+  .name { font-size: 13.5px; fill: #9FEFC9; font-weight: 700; }
+  .desc { font-size: 12.5px; fill: #7d968b; }
+  .meta { font-size: 12px;   fill: #1D9E75; }
+  .tag  { font-size: 10px;   fill: #9FEFC9; font-weight: 700; letter-spacing: 0.6px; }
+</style>
+
+<rect x="1" y="1" width="898" height="326" rx="12" fill="#0D1117" stroke="url(#frame)" stroke-width="1.5"/>
+<line x1="1" y1="32" x2="899" y2="32" stroke="#1D9E75" stroke-opacity="0.18"/>
+<circle cx="26" cy="17" r="5.5" fill="#ff5f56"/>
+<circle cx="45" cy="17" r="5.5" fill="#ffbd2e"/>
+<circle cx="64" cy="17" r="5.5" fill="#1D9E75"/>
+<text x="86" y="21" class="ui">mortoti@nolaptech: ~/systems</text>
+
+<g clip-path="url(#cmd)"><text xml:space="preserve" x="32" y="60" class="cmd">$ systemctl status --all</text></g>
+<clipPath id="cmd"><rect x="32" y="46" height="20" width="0">
+  <animate attributeName="width" from="0" to="230" begin="0.15s" dur="0.55s" fill="freeze"/></rect></clipPath>
+
+<g opacity="0">
+  <rect x="22" y="76" width="856" height="26" rx="5" fill="#1D9E75" fill-opacity="0.045"/>
+  <text xml:space="preserve" x="32" y="92" class="num">01</text>
+  <text xml:space="preserve" x="74" y="92" class="name">nolap-prep</text>
+  <text xml:space="preserve" x="262" y="92" class="desc">AI study platform</text>
+  <text xml:space="preserve" x="532" y="92" class="meta">700+ students</text>
+  <rect x="806" y="80" width="52" height="17" rx="8.5" fill="#1D9E75" fill-opacity="0.14" stroke="#1D9E75" stroke-opacity="0.5"/>
+  <circle cx="818" cy="88.5" r="3" fill="#1D9E75">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" begin="1.45s" repeatCount="indefinite"/>
+  </circle>
+  <text xml:space="preserve" x="827" y="92" class="tag">LIVE</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" begin="0.95s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+  <rect x="22" y="110" width="856" height="26" rx="5" fill="#1D9E75" fill-opacity="0.045"/>
+  <text xml:space="preserve" x="32" y="126" class="num">02</text>
+  <text xml:space="preserve" x="74" y="126" class="name">imperial-corte</text>
+  <text xml:space="preserve" x="262" y="126" class="desc">POS + loyalty engine</text>
+  <text xml:space="preserve" x="532" y="126" class="meta">MoMo referrals</text>
+  <rect x="806" y="114" width="52" height="17" rx="8.5" fill="#1D9E75" fill-opacity="0.14" stroke="#1D9E75" stroke-opacity="0.5"/>
+  <circle cx="818" cy="122.5" r="3" fill="#1D9E75">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" begin="1.67s" repeatCount="indefinite"/>
+  </circle>
+  <text xml:space="preserve" x="827" y="126" class="tag">LIVE</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1.17s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" begin="1.17s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+  <rect x="22" y="144" width="856" height="26" rx="5" fill="#1D9E75" fill-opacity="0.045"/>
+  <text xml:space="preserve" x="32" y="160" class="num">03</text>
+  <text xml:space="preserve" x="74" y="160" class="name">gaam</text>
+  <text xml:space="preserve" x="262" y="160" class="desc">national government site</text>
+  <text xml:space="preserve" x="532" y="160" class="meta">16 regions</text>
+  <rect x="806" y="148" width="52" height="17" rx="8.5" fill="#1D9E75" fill-opacity="0.14" stroke="#1D9E75" stroke-opacity="0.5"/>
+  <circle cx="818" cy="156.5" r="3" fill="#1D9E75">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" begin="1.89s" repeatCount="indefinite"/>
+  </circle>
+  <text xml:space="preserve" x="827" y="160" class="tag">LIVE</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1.39s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" begin="1.39s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+  <rect x="22" y="178" width="856" height="26" rx="5" fill="#1D9E75" fill-opacity="0.045"/>
+  <text xml:space="preserve" x="32" y="194" class="num">04</text>
+  <text xml:space="preserve" x="74" y="194" class="name">sir-ray-consult</text>
+  <text xml:space="preserve" x="262" y="194" class="desc">university admissions</text>
+  <text xml:space="preserve" x="532" y="194" class="meta">171 programmes</text>
+  <rect x="806" y="182" width="52" height="17" rx="8.5" fill="#1D9E75" fill-opacity="0.14" stroke="#1D9E75" stroke-opacity="0.5"/>
+  <circle cx="818" cy="190.5" r="3" fill="#1D9E75">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" begin="2.11s" repeatCount="indefinite"/>
+  </circle>
+  <text xml:space="preserve" x="827" y="194" class="tag">LIVE</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1.61s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" begin="1.61s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+  <rect x="22" y="212" width="856" height="26" rx="5" fill="#1D9E75" fill-opacity="0.045"/>
+  <text xml:space="preserve" x="32" y="228" class="num">05</text>
+  <text xml:space="preserve" x="74" y="228" class="name">aci-abrepo</text>
+  <text xml:space="preserve" x="262" y="228" class="desc">church management system</text>
+  <text xml:space="preserve" x="532" y="228" class="meta">full congregation</text>
+  <rect x="806" y="216" width="52" height="17" rx="8.5" fill="#1D9E75" fill-opacity="0.14" stroke="#1D9E75" stroke-opacity="0.5"/>
+  <circle cx="818" cy="224.5" r="3" fill="#1D9E75">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" begin="2.33s" repeatCount="indefinite"/>
+  </circle>
+  <text xml:space="preserve" x="827" y="228" class="tag">LIVE</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" begin="1.83s" dur="0.4s" fill="freeze"/>
+</g>
+
+<g opacity="0">
+  <line x1="32" y1="280.0" x2="868" y2="280.0" stroke="#1D9E75" stroke-opacity="0.2"/>
+  <text xml:space="preserve" x="32" y="304.0" class="ui">5 of 8 systems shown  ·  all operational  ·  open the cards below for full detail</text>
+  <animate attributeName="opacity" from="0" to="1" begin="2.05s" dur="0.5s" fill="freeze"/>
+</g>
+</svg>

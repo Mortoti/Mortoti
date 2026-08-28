@@ -80,12 +80,15 @@ class Mortoti:
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,java,js,cpp,django,postgres,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,js,cpp&theme=dark" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,vercel,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,postgres,mysql&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=dark" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Django_REST_Framework-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/Paystack-000000?style=flat-square&logo=paystack&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/Arkesel_SMS-000000?style=flat-square&logo=maildotru&logoColor=1D9E75"/>
@@ -200,7 +203,6 @@ class Mortoti:
 
 <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1D9E75"/>
 <img src="https://img.shields.io/badge/PWA-000000?style=flat-square&logo=pwa&logoColor=1D9E75"/>
-<img src="https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=chartdotjs&logoColor=1D9E75"/>
 
 <a href="https://stickersfie.nolaptech.com"><img src="https://img.shields.io/badge/VISIT_LIVE-1D9E75?style=for-the-badge&logoColor=000000"/></a>
 

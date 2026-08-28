@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:0a2a1a,100:1D9E75&height=300&section=header&text=MORTOTI&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=1D9E75&strokeWidth=2&desc=I%20don't%20just%20write%20code.%20I%20build%20things%20people%20actually%20use.&descAlignY=60&descSize=16&descColor=9fefc9" width="100%"/>
+<img src="assets/hero.svg" alt="mortoti terminal" width="900"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-<img src="assets/ascii-portrait.svg" alt="ASCII portrait of Jephthah Mortoti" width="740"/>
+<img src="assets/ascii-portrait.svg" alt="ASCII portrait of Jephthah Mortoti" width="900"/>
 
 </div>
 
@@ -161,6 +161,10 @@ class Mortoti:
 ### `~/shipped`
 
 **Not side projects. Not tutorials. Production systems with real users and real money moving through them.**
+
+<br/>
+
+<img src="assets/systems.svg" alt="systems status" width="900"/>
 
 <sub>every card below opens. every link below is live.</sub>
 
@@ -421,7 +425,7 @@ Building for a church means building for volunteers who did not sign up to learn
 
 <br/>
 
-<img src="assets/achievements.svg" alt="Achievements terminal log" width="740"/>
+<img src="assets/achievements.svg" alt="Achievements terminal log" width="900"/>
 
 </div>
 

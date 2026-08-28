@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="436" viewBox="0 0 738 436" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,monospace">
+<defs>
+  <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#1D9E75" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#1D9E75" stop-opacity="0.15"/>
+  </linearGradient>
+</defs>
+<style>
+  .date  { font-size: 11.5px; fill: #5f7d70; }
+  .title { font-size: 13.5px;  fill: #9FEFC9; font-weight: 700; letter-spacing: 0.4px; }
+  .desc  { font-size: 12.5px; fill: #1D9E75; }
+  .ui    { font-size: 11.5px; fill: #5f7d70; }
+  .prompt{ font-size: 12.5px; fill: #1D9E75; }
+</style>
+
+<rect x="1" y="1" width="736" height="434" rx="12" fill="#0D1117" stroke="url(#frame)" stroke-width="1.5"/>
+<line x1="1" y1="30" x2="737" y2="30" stroke="#1D9E75" stroke-opacity="0.18"/>
+<circle cx="24" cy="16" r="5" fill="#ff5f56"/>
+<circle cx="42" cy="16" r="5" fill="#ffbd2e"/>
+<circle cx="60" cy="16" r="5" fill="#1D9E75"/>
+<text x="80" y="20" class="ui">mortoti@github: ~/achievements</text>
+
+<g clip-path="url(#cmd)">
+  <text xml:space="preserve" x="30" y="48" class="prompt">$ cat achievements.log --sort=recent</text>
+</g>
+<clipPath id="cmd"><rect x="30" y="34" height="20" width="0">
+  <animate attributeName="width" from="0" to="330" begin="0.15s" dur="0.6s" fill="freeze"/>
+</rect></clipPath>
+
+<g opacity="0"><text xml:space="preserve" x="30" y="84.0" class="date">01</text><text xml:space="preserve" x="78" y="84.0" class="title">MTN SME ACCELERATE WINNER</text><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.60s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="78" y="104.0" class="desc">GHS 30,000 in pitch funding  ·  April 2026</text><animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.88s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="30" y="134.0" class="date">02</text><text xml:space="preserve" x="78" y="134.0" class="title">FIRST CLASS</text><animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.10s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="78" y="154.0" class="desc">BSc Information Technology, KNUST  ·  CWA 71.92</text><animate attributeName="opacity" from="0" to="1" begin="1.38s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.38s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="30" y="184.0" class="date">03</text><text xml:space="preserve" x="78" y="184.0" class="title">HONORS ADMISSION</text><animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.60s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="78" y="204.0" class="desc">Kent State University, USA  ·  Ohio University, USA</text><animate attributeName="opacity" from="0" to="1" begin="1.88s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.88s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="30" y="234.0" class="date">04</text><text xml:space="preserve" x="78" y="234.0" class="title">MOST IMPROVED PROGRAMMER</text><animate attributeName="opacity" from="0" to="1" begin="2.10s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="2.10s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="78" y="254.0" class="desc">Computer Science Society, KNUST  ·  2025</text><animate attributeName="opacity" from="0" to="1" begin="2.38s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="2.38s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="30" y="284.0" class="date">05</text><text xml:space="preserve" x="78" y="284.0" class="title">MOST INFLUENTIAL STUDENT</text><animate attributeName="opacity" from="0" to="1" begin="2.60s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="2.60s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="78" y="304.0" class="desc">High School Excellence Awards  ·  2024</text><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="2.88s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="30" y="334.0" class="date">06</text><text xml:space="preserve" x="78" y="334.0" class="title">EXCELLENT LEADERSHIP AWARD</text><animate attributeName="opacity" from="0" to="1" begin="3.10s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="3.10s" dur="0.45s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="78" y="354.0" class="desc">Presec Legon Speech Day  ·  2024  ·  GHS 1,000 prize</text><animate attributeName="opacity" from="0" to="1" begin="3.38s" dur="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="3.38s" dur="0.45s" fill="freeze"/></g>
+
+<g opacity="0">
+  <line x1="30" y1="390.0" x2="708" y2="390.0" stroke="#1D9E75" stroke-opacity="0.2"/>
+  <text xml:space="preserve" x="30" y="412.0" class="ui">6 records returned  ·  0 pending  ·  still shipping</text>
+  <animate attributeName="opacity" from="0" to="1" begin="3.80s" dur="0.5s" fill="freeze"/>
+</g>
+<rect x="394" y="401.0" width="8" height="13" fill="#1D9E75" opacity="0">
+  <animate attributeName="opacity" values="0;1" begin="4.20s" dur="0.01s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0;0;1" begin="4.30s" dur="1.1s" repeatCount="indefinite"/>
+</rect>
+</svg>

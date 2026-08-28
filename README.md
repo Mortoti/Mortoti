@@ -220,7 +220,7 @@ Django and PostgreSQL underneath. More than 700 students on it.
 <sub>Point of sale and loyalty engine for a working barbershop</sub>
 </div>
 
-<details>
+<details open>
 <summary><b>Read the breakdown</b> &nbsp;<code>queue, payroll, referrals</code> &nbsp;<code>django</code> <code>momo</code> <code>sms</code></summary>
 
 <br/>
@@ -261,7 +261,7 @@ It turns every satisfied customer into a salesperson with a reason to care, so g
 <sub>Official website for a national government body</sub>
 </div>
 
-<details>
+<details open>
 <summary><b>Read the breakdown</b> &nbsp;<code>all 16 regions</code> &nbsp;<code>django</code> <code>postgres</code></summary>
 
 <br/>
@@ -299,7 +299,7 @@ That pushed the weight onto clear structure, fast pages, and content that surviv
 <sub>University admissions platform</sub>
 </div>
 
-<details>
+<details open>
 <summary><b>Read the breakdown</b> &nbsp;<code>171 programmes indexed</code> &nbsp;<code>django</code> <code>paystack</code> <code>sms</code></summary>
 
 <br/>
@@ -339,7 +339,7 @@ The result checker cards are the part that earns. A student can buy one at midni
 <sub>Church management system for a full congregation</sub>
 </div>
 
-<details>
+<details open>
 <summary><b>Read the breakdown</b> &nbsp;<code>records, attendance, finances</code> &nbsp;<code>django</code> <code>sms</code></summary>
 
 <br/>

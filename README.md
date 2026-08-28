@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&pause=900&color=1D9E75&center=true&vCenter=true&width=760&height=45&lines=8%2B+production+systems+shipped+for+real+paying+clients;700%2B+users+on+NOLAP+Prep%2C+an+AI+study+platform+I+built;MTN+SME+Accelerate+Winner+%C2%B7+GHS+30%2C000+in+pitch+funding;First+Class+%40+KNUST+while+running+a+registered+company;Backend+developer+targeting+banking+%26+enterprise+tech;Building+from+Ghana+%F0%9F%87%AC%F0%9F%87%AD+for+the+world" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&pause=900&color=1D9E75&center=true&vCenter=true&width=760&height=45&lines=8%2B+production+systems+shipped+for+real+paying+clients;700%2B+users+on+NOLAP+Prep%2C+an+AI+study+platform+I+built;MTN+SME+Accelerate+Winner+%C2%B7+GHS+30%2C000+in+pitch+funding;First+Class+%40+KNUST+while+running+a+registered+company;Backend+developer+targeting+banking+%26+enterprise+tech;Building+from+Ghana+for+the+world" alt="Typing SVG"/>
 
 <br/>
 
@@ -88,7 +88,7 @@
 
 class Mortoti:
     name     = "Jephthah Lorlornyo Mortoti-Agogyi"
-    location = "Kumasi, Ghana 🇬🇭"
+    location = "Kumasi, Ghana"
     role     = "Backend Developer · Founder · Problem Solver"
     company  = "NOLAP Technologies :: Systems | Academy | Agency"
     studying = "BSc Information Technology @ KNUST · First Class · CWA 71.92"
@@ -109,7 +109,7 @@ class Mortoti:
 
 
 >>> Mortoti().available_for()
-['collaborations', 'backend projects', 'consulting']  # let's talk 👇
+['collaborations', 'backend projects', 'consulting']  # scroll down
 ```
 
 <br/>
@@ -419,21 +419,40 @@ Building for a church means building for volunteers who did not sign up to learn
 
 ### `~/achievements`
 
-</div>
-
 <br/>
 
-> 🏆 &nbsp;**MTN SME Accelerate Winner** &nbsp;·&nbsp; GHS 30,000 pitch funding, April 2026
->
-> 🎓 &nbsp;**First Class** &nbsp;·&nbsp; BSc Information Technology, KNUST, CWA 71.92
->
-> 🌍 &nbsp;**Honors Admission** &nbsp;·&nbsp; Kent State University USA and Ohio University USA
->
-> 👨‍💻 &nbsp;**Most Improved Programmer** &nbsp;·&nbsp; CS Society, KNUST 2025
->
-> 🌟 &nbsp;**Most Influential Student** &nbsp;·&nbsp; High School Excellence Awards 2024
->
-> 🏅 &nbsp;**Excellent Leadership Award + GHS 1,000** &nbsp;·&nbsp; Presec Legon Speech Day 2024
+<img src="assets/achievements.svg" alt="Achievements terminal log" width="740"/>
+
+</div>
+
+<details>
+<summary><sub>plain text version</sub></summary>
+
+```
+$ cat achievements.log --sort=recent
+
+01   MTN SME ACCELERATE WINNER
+     GHS 30,000 in pitch funding  ·  April 2026
+
+02   FIRST CLASS
+     BSc Information Technology, KNUST  ·  CWA 71.92
+
+03   HONORS ADMISSION
+     Kent State University, USA  ·  Ohio University, USA
+
+04   MOST IMPROVED PROGRAMMER
+     Computer Science Society, KNUST  ·  2025
+
+05   MOST INFLUENTIAL STUDENT
+     High School Excellence Awards  ·  2024
+
+06   EXCELLENT LEADERSHIP AWARD
+     Presec Legon Speech Day  ·  2024  ·  GHS 1,000 prize
+
+6 records returned  ·  0 pending  ·  still shipping
+```
+
+</details>
 
 <br/>
 
@@ -467,6 +486,6 @@ Building for a church means building for volunteers who did not sign up to learn
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:000000&height=140&section=footer&animation=fadeIn&text=Ship.%20Learn.%20Repeat.&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%"/>
 
-<sub>built with intention &nbsp;·&nbsp; shipped with ambition &nbsp;·&nbsp; from Kumasi 🇬🇭</sub>
+<sub>built with intention &nbsp;·&nbsp; shipped with ambition &nbsp;·&nbsp; from Kumasi, Ghana</sub>
 
 </div>

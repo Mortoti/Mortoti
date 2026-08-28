@@ -173,28 +173,31 @@ class Mortoti:
 <br/>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/01-NOLAP_PREP-1D9E75?style=for-the-badge&labelColor=000000"/>
-
+<br/>
+<sub>AI powered study platform for Ghanaian university students</sub>
 </div>
 
 <details open>
-<summary><b>AI powered study platform for Ghanaian university students</b> &nbsp;<code>700+ active students</code></summary>
+<summary><b>Read the breakdown</b> &nbsp;<code>700+ active students</code> &nbsp;<code>django</code> <code>openai</code> <code>paystack</code></summary>
 
 <br/>
 
-Students here revise the same way every year. They hunt for past questions, photocopy whatever they can find, and hope the lecturer repeats himself. NOLAP Prep replaces that guesswork with a system.
+> Students here revise the same way every year. They hunt for past questions, photocopy whatever they can find, and hope the lecturer repeats himself. NOLAP Prep replaces that guesswork with a system.
 
-The core of it is question generation. Course material goes in, the OpenAI API turns it into fresh exam style questions, and students get an unlimited supply of practice instead of the same three past papers passed around a WhatsApp group.
+```console
+$ nolap-prep --features
 
-On top of that sits everything a student actually needs to keep going:
+  question generation   course material in, fresh exam style questions out
+  live quizzes          students go head to head in real time
+  study reminders       SMS that lands on any phone, no data required
+  payments              Paystack subscriptions, cards and mobile money
+  class resources       one home for every slide, note and material
+```
 
-`Live quiz competitions` let students go head to head in real time, which turns solo revision into something they come back for.
-`SMS study reminders` reach students on any phone, no data required, because a study plan nobody remembers is not a study plan.
-`Paystack payments` handle subscriptions and access with local cards and mobile money.
-`Class resource sharing` gives each class one place for slides, notes and materials instead of a scattered chat history.
+Question generation is the core. Instead of the same three past papers circling a WhatsApp group, students get an unlimited supply of practice drawn from their own course material through the OpenAI API. The competitions turn solo revision into something they come back for, and the SMS layer means a student with no data still gets nudged.
 
-The platform runs on Django with PostgreSQL behind it, and has grown to more than 700 active students.
+Django and PostgreSQL underneath. More than 700 students on it.
 
 <br/>
 
@@ -212,25 +215,32 @@ The platform runs on Django with PostgreSQL behind it, and has grown to more tha
 <br/>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/02-IMPERIAL_CORTE-1D9E75?style=for-the-badge&labelColor=000000"/>
-
+<br/>
+<sub>Point of sale and loyalty engine for a working barbershop</sub>
 </div>
 
 <details>
-<summary><b>Point of sale and loyalty engine for a working barbershop</b> &nbsp;<code>queue, payroll, referrals</code></summary>
+<summary><b>Read the breakdown</b> &nbsp;<code>queue, payroll, referrals</code> &nbsp;<code>django</code> <code>momo</code> <code>sms</code></summary>
 
 <br/>
 
-A barbershop is a harder business than it looks. Customers arrive without warning, barbers are paid on what they cut, and the whole thing usually runs on a notebook behind the counter. Imperial Corte turns that notebook into software.
+> A barbershop is harder than it looks. Customers arrive without warning, barbers are paid on what they cut, and the whole thing usually runs on a notebook behind the counter. Imperial Corte turns that notebook into software.
 
-`Queue management` tracks who is waiting, who is in a chair and who is next, so the shop stops running on memory and shouting.
-`Barber commissions` are calculated from actual recorded cuts, which removes the end of week argument about who earned what.
-`Payroll` follows from those same numbers, so paying the team is a report rather than an evening of arithmetic.
-`SMS blasts` push promotions and announcements to the entire customer base at once.
-`Birthday automation` sends customers a message on their day without anyone remembering to.
+```console
+$ imperial-corte --features
 
-The piece I am proudest of is **ImperialCash**. It is a referral programme where a member earns real mobile money every single time someone they referred walks in and pays. Not points. Not a stamp card. Cash that lands on their phone. It turns every satisfied customer into an incentivised salesperson for the shop, and it means growth compounds instead of depending on foot traffic.
+  queue management      who is waiting, who is in a chair, who is next
+  barber commissions    calculated from recorded cuts, not from memory
+  payroll               paying the team becomes a report, not an evening
+  sms blasts            promotions to the whole customer base at once
+  birthday automation   every customer hears from the shop on their day
+  imperialcash          referrers earn cash on every visit they cause
+```
+
+**ImperialCash** is the piece I am proudest of. A member earns real mobile money every single time someone they referred walks in and pays. Not points. Not a stamp card. Cash that lands on their phone.
+
+It turns every satisfied customer into a salesperson with a reason to care, so growth compounds instead of waiting on foot traffic.
 
 <br/>
 
@@ -246,21 +256,31 @@ The piece I am proudest of is **ImperialCash**. It is a referral programme where
 <br/>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/03-GAAM-1D9E75?style=for-the-badge&labelColor=000000"/>
-
+<br/>
+<sub>Official website for a national government body</sub>
 </div>
 
 <details>
-<summary><b>Official website for a national government body</b> &nbsp;<code>all 16 regions of Ghana</code></summary>
+<summary><b>Read the breakdown</b> &nbsp;<code>all 16 regions</code> &nbsp;<code>django</code> <code>postgres</code></summary>
 
 <br/>
 
-The Ghana Association of Assembly Members is the national body representing assembly members across all 16 regions of the country. Assembly members are the layer of government closest to ordinary people, and until this project the association had no official home online.
+> The Ghana Association of Assembly Members represents assembly members across all 16 regions of the country. Assembly members are the tier of government closest to ordinary people, and until this project the association had no official home online.
 
-I built and shipped that home. It went live as an official milestone under the current president's tenure, which means the work is public record rather than a portfolio entry.
+```console
+$ gaam --about
 
-Building for a national body changes the job. The audience is not early adopters who will forgive a rough edge, it is members, media and the public arriving from every region on every kind of connection. That put the weight on clear structure, fast pages, and content that holds up when the site is being read by people who have never used the internet for anything official before.
+  scope        national body, all 16 regions of Ghana
+  represents   assembly members, the tier closest to the public
+  launched     an official milestone under the current president
+  audience     members, media and the public, on any connection
+  status       live and public record
+```
+
+Building for a national body changes the job. The audience is not early adopters who forgive a rough edge. It is members, journalists and citizens arriving from every region on every kind of connection, many of them using the internet for something official for the first time.
+
+That pushed the weight onto clear structure, fast pages, and content that survives being read by someone who is not going to hunt for what they need.
 
 <br/>
 
@@ -274,27 +294,31 @@ Building for a national body changes the job. The audience is not early adopters
 <br/>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/04-SIR_RAY_CONSULT-1D9E75?style=for-the-badge&labelColor=000000"/>
-
+<br/>
+<sub>University admissions platform</sub>
 </div>
 
 <details>
-<summary><b>University admissions platform</b> &nbsp;<code>171 programmes indexed</code></summary>
+<summary><b>Read the breakdown</b> &nbsp;<code>171 programmes indexed</code> &nbsp;<code>django</code> <code>paystack</code> <code>sms</code></summary>
 
 <br/>
 
-Every year thousands of Ghanaian students finish WASSCE and immediately hit the same wall. What is my aggregate. Which universities will take it. Which programmes am I actually qualified for. The answers are scattered across PDFs, notice boards and rumour.
+> Every year thousands of Ghanaian students finish WASSCE and hit the same wall. What is my aggregate. Which universities will take it. Which programmes am I actually qualified for. The answers sit scattered across PDFs, notice boards and rumour.
 
-Sir Ray Consult puts all of it in one place.
+```console
+$ sir-ray-consult --features
 
-`WASSCE aggregate calculator` turns raw grades into the number that decides everything, without the student getting it wrong by hand.
-`Cut off points` are indexed for every Ghanaian university, so a student can see where they stand instead of guessing.
-`171 programmes` are catalogued with their requirements, which is the difference between applying blind and applying informed.
-`Course Match` takes a student's results and points them at the programmes they qualify for, which is the feature that turns a reference site into advice.
-`Result checker cards` are sold and delivered instantly over SMS after a Paystack payment, so a student can buy a card at midnight and check results immediately rather than finding a vendor in town.
+  aggregate calculator  WASSCE grades in, the number that decides out
+  cut off points        indexed for every Ghanaian university
+  programme catalogue   171 programmes with their entry requirements
+  course match          your results in, the programmes you qualify for
+  result checker cards  bought and delivered over SMS in seconds
+```
 
-That last piece matters because it is the part that earns. The tools bring students in, the card delivery pays for the platform.
+Course Match is the feature that turns a reference site into advice. A student stops browsing requirements and starts seeing the shortlist that is actually open to them.
+
+The result checker cards are the part that earns. A student can buy one at midnight through Paystack and have it delivered by SMS immediately, instead of finding a vendor in town the next morning. The tools bring students in, the cards pay for the platform.
 
 <br/>
 
@@ -310,27 +334,31 @@ That last piece matters because it is the part that earns. The tools bring stude
 <br/>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/05-ACI_ABREPO-1D9E75?style=for-the-badge&labelColor=000000"/>
-
+<br/>
+<sub>Church management system for a full congregation</sub>
 </div>
 
 <details>
-<summary><b>Church management system for a full congregation</b> &nbsp;<code>records, attendance, finances</code></summary>
+<summary><b>Read the breakdown</b> &nbsp;<code>records, attendance, finances</code> &nbsp;<code>django</code> <code>sms</code></summary>
 
 <br/>
 
-Ark Cathedral International, Abrepo, ran the way most churches run. Membership in one book, attendance in another, offerings in a third, and announcements delivered by whoever remembered to make them. Everything worked until someone needed to answer a question across two of those books.
+> Membership in one book, attendance in another, offerings in a third, and announcements delivered by whoever remembered to make them. It all worked until someone needed to answer a question that spanned two of those books.
 
-The system I built collapses all of it into one place.
+```console
+$ aci-abrepo --features
 
-`Member records` hold the congregation in a single searchable database instead of a register.
-`Attendance tracking` shows who is showing up and who has quietly stopped, which is pastoral information, not just a number.
-`Finances` are recorded and reportable, so leadership can answer questions about the church's money with figures rather than estimates.
-`Day born group management` supports the Akan day name groupings the church organises around, a structure no generic church software off the shelf accounts for.
-`Bulk SMS` reaches the entire congregation at once, which matters far more than email in this context.
+  member records        the congregation in one searchable database
+  attendance            who shows up, and who has quietly stopped
+  finances              recorded and reportable, figures not estimates
+  day born groups       built around the Akan day name groupings
+  bulk sms              the whole congregation reached at once
+```
 
-Building for a church means building for volunteers who did not sign up to learn software. The whole thing had to be obvious on the first try.
+Attendance here is pastoral information, not a statistic. A name that stops appearing is a person to check on, and the system surfaces that instead of burying it in a register nobody adds up.
+
+Day born groups are the part no off the shelf church software accounts for, because it is a structure that only makes sense here. Building for volunteers meant the whole thing had to be obvious on the first try, with nobody available to train them.
 
 <br/>
 

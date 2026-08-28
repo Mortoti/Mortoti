@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="378" viewBox="0 0 900 378" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,monospace">
+<defs><linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1D9E75" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#1D9E75" stop-opacity="0.15"/>
+</linearGradient></defs>
+<style>
+  .ui   { font-size: 11.5px; fill: #5f7d70; }
+  .cmd  { font-size: 13px;   fill: #1D9E75; }
+  .key  { font-size: 13px;   fill: #9FEFC9; }
+  .val  { font-size: 13px;   fill: #1D9E75; font-weight: 700; }
+  .punc { font-size: 13px;   fill: #4a6b5d; }
+  .note { font-size: 11.5px; fill: #5f7d70; }
+</style>
+<rect x="1" y="1" width="898" height="376" rx="12" fill="#0D1117" stroke="url(#frame)" stroke-width="1.5"/>
+<line x1="1" y1="32" x2="899" y2="32" stroke="#1D9E75" stroke-opacity="0.18"/>
+<circle cx="26" cy="17" r="5.5" fill="#ff5f56"/>
+<circle cx="45" cy="17" r="5.5" fill="#ffbd2e"/>
+<circle cx="64" cy="17" r="5.5" fill="#1D9E75"/>
+<text x="86" y="21" class="ui">mortoti@nolaptech: ~/receipts</text>
+<g clip-path="url(#cmd)"><text xml:space="preserve" x="34" y="60" class="cmd">$ cat receipts.json</text></g>
+<clipPath id="cmd"><rect x="34" y="46" height="20" width="0">
+  <animate attributeName="width" from="0" to="190" begin="0.15s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<g opacity="0"><text xml:space="preserve" x="34" y="84" class="punc">{</text><animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="0.70s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="106" class="key">&quot;production_systems&quot;</text><text xml:space="preserve" x="284" y="106" class="punc">:</text><text xml:space="preserve" x="302" y="106" class="val">&quot;8+&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="0.85s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="130" class="key">&quot;live_domains&quot;</text><text xml:space="preserve" x="284" y="130" class="punc">:</text><text xml:space="preserve" x="302" y="130" class="val">5</text><text xml:space="preserve" x="594" y="130" class="note">// in production right now</text><animate attributeName="opacity" from="0" to="1" begin="1.01s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.01s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="154" class="key">&quot;active_users&quot;</text><text xml:space="preserve" x="284" y="154" class="punc">:</text><text xml:space="preserve" x="302" y="154" class="val">&quot;700+&quot;</text><text xml:space="preserve" x="594" y="154" class="note">// on NOLAP Prep</text><animate attributeName="opacity" from="0" to="1" begin="1.17s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.17s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="178" class="key">&quot;programmes_indexed&quot;</text><text xml:space="preserve" x="284" y="178" class="punc">:</text><text xml:space="preserve" x="302" y="178" class="val">171</text><text xml:space="preserve" x="594" y="178" class="note">// across Ghanaian universities</text><animate attributeName="opacity" from="0" to="1" begin="1.33s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.33s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="202" class="key">&quot;regions_covered&quot;</text><text xml:space="preserve" x="284" y="202" class="punc">:</text><text xml:space="preserve" x="302" y="202" class="val">16</text><text xml:space="preserve" x="594" y="202" class="note">// every region in the country</text><animate attributeName="opacity" from="0" to="1" begin="1.49s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.49s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="226" class="key">&quot;students_trained&quot;</text><text xml:space="preserve" x="284" y="226" class="punc">:</text><text xml:space="preserve" x="302" y="226" class="val">21</text><text xml:space="preserve" x="594" y="226" class="note">// through NOLAP Academy</text><animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.65s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="250" class="key">&quot;pitch_funding_won&quot;</text><text xml:space="preserve" x="284" y="250" class="punc">:</text><text xml:space="preserve" x="302" y="250" class="val">&quot;GHS 30,000&quot;</text><text xml:space="preserve" x="594" y="250" class="note">// MTN SME Accelerate</text><animate attributeName="opacity" from="0" to="1" begin="1.81s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.81s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="274" class="key">&quot;payment_rails&quot;</text><text xml:space="preserve" x="284" y="274" class="punc">:</text><text xml:space="preserve" x="302" y="274" class="val">[&quot;paystack&quot;, &quot;mobile money&quot;]</text><animate attributeName="opacity" from="0" to="1" begin="1.97s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.97s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="298" class="key">&quot;sms_reach&quot;</text><text xml:space="preserve" x="284" y="298" class="punc">:</text><text xml:space="preserve" x="302" y="298" class="val">&quot;any phone, no data needed&quot;</text><animate attributeName="opacity" from="0" to="1" begin="2.13s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="2.13s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="34" y="324" class="punc">}</text><animate attributeName="opacity" from="0" to="1" begin="2.29s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="2.29s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="34" y="354" class="ui">every figure above is attached to something live</text><animate attributeName="opacity" from="0" to="1" begin="2.44s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="2.44s" dur="0.35s" fill="freeze"/></g>
+</svg>

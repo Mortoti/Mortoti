@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="284" viewBox="0 0 900 284" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,monospace">
+<defs><linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1D9E75" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#1D9E75" stop-opacity="0.15"/>
+</linearGradient></defs>
+<style>
+  .ui   { font-size: 11.5px; fill: #5f7d70; }
+  .cmd  { font-size: 13px;   fill: #1D9E75; }
+  .key  { font-size: 12.5px; fill: #5f7d70; }
+  .val2 { font-size: 13px;   fill: #9FEFC9; }
+</style>
+<rect x="1" y="1" width="898" height="282" rx="12" fill="#0D1117" stroke="url(#frame)" stroke-width="1.5"/>
+<line x1="1" y1="32" x2="899" y2="32" stroke="#1D9E75" stroke-opacity="0.18"/>
+<circle cx="26" cy="17" r="5.5" fill="#ff5f56"/>
+<circle cx="45" cy="17" r="5.5" fill="#ffbd2e"/>
+<circle cx="64" cy="17" r="5.5" fill="#1D9E75"/>
+<text x="86" y="21" class="ui">mortoti@nolaptech: ~/contact</text>
+<g clip-path="url(#cmd2)"><text xml:space="preserve" x="34" y="60" class="cmd">$ whois mortoti</text></g>
+<clipPath id="cmd2"><rect x="34" y="46" height="20" width="0">
+  <animate attributeName="width" from="0" to="150" begin="0.15s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<g opacity="0"><text xml:space="preserve" x="60" y="92" class="key">status</text><text xml:space="preserve" x="184" y="92" class="val2">available for collaborations, backend projects and consulting</text><animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="0.80s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="118" class="key">based</text><text xml:space="preserve" x="184" y="118" class="val2">Kumasi, Ghana</text><animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.00s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="144" class="key">focus</text><text xml:space="preserve" x="184" y="144" class="val2">backend engineering for banking and enterprise systems</text><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.20s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="170" class="key">studying</text><text xml:space="preserve" x="184" y="170" class="val2">system design  ·  robust API architecture  ·  advanced Java</text><animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.40s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="60" y="196" class="key">channels</text><text xml:space="preserve" x="184" y="196" class="val2">email  ·  linkedin  ·  mortoti.me  ·  youtube</text><animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.60s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text xml:space="preserve" x="34" y="244" class="cmd">$ </text><text xml:space="preserve" x="74" y="244" class="ui">got a system that needs building? the buttons below are live.</text><animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" begin="1.80s" dur="0.35s" fill="freeze"/></g>
+<rect x="50" y="233" width="8" height="13" fill="#1D9E75" opacity="0">
+  <animate attributeName="opacity" values="0;1" begin="2.10s" dur="0.01s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;1;0;0;1" begin="2.20s" dur="1.1s" repeatCount="indefinite"/>
+</rect>
+</svg>

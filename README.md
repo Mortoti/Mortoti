@@ -10,8 +10,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&pause=900&color=1D9E75&center=true&vCenter=true&width=760&height=45&lines=8%2B+production+systems+shipped+for+real+paying+clients;700%2B+users+on+NOLAP+Prep%2C+an+AI+study+platform+I+built;MTN+SME+Accelerate+Winner+%C2%B7+GHS+30%2C000+in+pitch+funding;First+Class+%40+KNUST+while+running+a+registered+company;Backend+developer+targeting+banking+%26+enterprise+tech;Building+from+Ghana+for+the+world" alt="Typing SVG"/>
-
 <br/>
 
 <a href="https://mortoti.me"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=1D9E75&labelColor=000000"/></a>
@@ -88,10 +86,8 @@
 
 class Mortoti:
     name     = "Jephthah Lorlornyo Mortoti-Agogyi"
-    location = "Kumasi, Ghana"
-    role     = "Backend Developer · Founder · Problem Solver"
     company  = "NOLAP Technologies :: Systems | Academy | Agency"
-    studying = "BSc Information Technology @ KNUST · First Class · CWA 71.92"
+    studying = "BSc Information Technology @ KNUST"
 
     stack = {
         "languages" : ["Python", "Java", "JavaScript", "C++"],
@@ -386,13 +382,7 @@ Day born groups are the part no off the shelf church software accounts for, beca
 
 <br/>
 
-<img src="https://img.shields.io/badge/8%2B-SYSTEMS_SHIPPED-000000?style=for-the-badge&labelColor=1D9E75"/>
-&nbsp;
-<img src="https://img.shields.io/badge/700%2B-ACTIVE_USERS-000000?style=for-the-badge&labelColor=1D9E75"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GHS_30K-PITCH_FUNDING_WON-000000?style=for-the-badge&labelColor=1D9E75"/>
-&nbsp;
-<img src="https://img.shields.io/badge/21-STUDENTS_TRAINED-000000?style=for-the-badge&labelColor=1D9E75"/>
+<img src="assets/receipts.svg" alt="receipts" width="900"/>
 
 </div>
 
@@ -412,20 +402,12 @@ Day born groups are the part no off the shelf church software accounts for, beca
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mortoti&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff&border_radius=10&include_all_commits=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mortoti&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=ffffff&dates=888888&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mortoti&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=8fa79b&border_radius=12&include_all_commits=true&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Mortoti&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=9FEFC9&currStreakLabel=1D9E75&sideLabels=8fa79b&dates=5f7d70&border_radius=12" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mortoti&bg_color=0D1117&color=ffffff&line=1D9E75&point=ffffff&area=true&area_color=1D9E75&hide_border=true&custom_title=Contribution%20Pulse" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortoti&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=ffffff&border_radius=10&langs_count=8" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mortoti&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortoti&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=1D9E75&text_color=8fa79b&border_radius=12&langs_count=6&card_width=420" width="42%"/>
 
 </div>
 
@@ -502,7 +484,7 @@ $ cat achievements.log --sort=recent
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=9FEFC9&center=true&vCenter=true&width=520&height=35&lines=Got+a+system+that+needs+building%3F;Got+a+backend+that+keeps+breaking%3F;Let's+ship+something+real." alt="Contact"/>
+<img src="assets/contact.svg" alt="contact" width="900"/>
 
 <br/><br/>
 
@@ -516,8 +498,8 @@ $ cat achievements.log --sort=recent
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:000000&height=140&section=footer&animation=fadeIn&text=Ship.%20Learn.%20Repeat.&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:000000&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>built with intention &nbsp;·&nbsp; shipped with ambition &nbsp;·&nbsp; from Kumasi, Ghana</sub>
+<sub>built in Kumasi &nbsp;·&nbsp; shipped to the world</sub>
 
 </div>
